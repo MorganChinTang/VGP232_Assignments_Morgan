@@ -1,0 +1,13 @@
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\obj\Debug\net8.0\WeaponLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\obj\Debug\net8.0\WeaponLib.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\obj\Debug\net8.0\WeaponLib.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\obj\Debug\net8.0\WeaponLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\obj\Debug\net8.0\WeaponLib.sourcelink.json
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\bin\Debug\net8.0\data2.csv
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\bin\Debug\net8.0\WeaponLib.deps.json
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\bin\Debug\net8.0\WeaponLib.dll
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\bin\Debug\net8.0\WeaponLib.pdb
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\obj\Debug\net8.0\WeaponLib.dll
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\obj\Debug\net8.0\refint\WeaponLib.dll
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\obj\Debug\net8.0\WeaponLib.pdb
+C:\Users\user\Documents\GitHub\VGP232_Assignments_Morgan\Assignment2_Morgan\Assignment2c\WeaponLib\obj\Debug\net8.0\ref\WeaponLib.dll

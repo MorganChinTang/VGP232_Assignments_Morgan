@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\WeaponLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC0932-26E8-46A7-BB4F-E06753EFC1C7}|..\\Assignment2C\\Assignment2C.csproj|c:\\users\\user\\documents\\github\\vgp232_assignments_morgan\\assignment2_morgan\\assignment2c\\assignment2c\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC0932-26E8-46A7-BB4F-E06753EFC1C7}|..\\Assignment2C\\Assignment2C.csproj|c:\\users\\user\\documents\\github\\vgp232_assignments_morgan\\assignment2_morgan\\assignment2c\\assignment2c\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5317310-A453-48A8-9DFA-B409921F2134}|WeaponLib.csproj|c:\\users\\user\\documents\\github\\vgp232_assignments_morgan\\assignment2_morgan\\assignment2c\\weaponlib\\weaponlib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E5317310-A453-48A8-9DFA-B409921F2134}|WeaponLib.csproj|solutionrelative:weaponlib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC0932-26E8-46A7-BB4F-E06753EFC1C7}|..\\Assignment2C\\Assignment2C.csproj|c:\\users\\user\\documents\\github\\vgp232_assignments_morgan\\assignment2_morgan\\assignment2c\\assignment2c\\weaponeditorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeaponEditorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\Assignment2C\\WeaponEditorWindow.xaml",
+              "RelativeDocumentMoniker": "..\\Assignment2C\\WeaponEditorWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\Assignment2C\\WeaponEditorWindow.xaml",
+              "RelativeToolTip": "..\\Assignment2C\\WeaponEditorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T00:40:58.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\Assignment2C\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\Assignment2C\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\Assignment2C\\MainWindow.xaml*",
+              "RelativeToolTip": "..\\Assignment2C\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T00:09:50.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\Assignment2C\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\Assignment2C\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\Assignment2C\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\Assignment2C\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:09:49.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeaponLib",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\WeaponLib\\WeaponLib.csproj",
+              "RelativeDocumentMoniker": "WeaponLib.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\WeaponLib\\WeaponLib.csproj",
+              "RelativeToolTip": "WeaponLib.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-21T01:09:06.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponLib", "WeaponLib.csproj", "{E5317310-A453-48A8-9DFA-B409921F2134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2C", "..\Assignment2C\Assignment2C.csproj", "{8CFC0932-26E8-46A7-BB4F-E06753EFC1C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5317310-A453-48A8-9DFA-B409921F2134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5317310-A453-48A8-9DFA-B409921F2134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5317310-A453-48A8-9DFA-B409921F2134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5317310-A453-48A8-9DFA-B409921F2134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CFC0932-26E8-46A7-BB4F-E06753EFC1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFC0932-26E8-46A7-BB4F-E06753EFC1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFC0932-26E8-46A7-BB4F-E06753EFC1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFC0932-26E8-46A7-BB4F-E06753EFC1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {121708EC-75F4-4FD6-A494-CF045FCBDC72}
+	EndGlobalSection
+EndGlobal

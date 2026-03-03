@@ -1,0 +1,54 @@
+﻿<Window x:Class="Assignment2C.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment2C"
+        mc:Ignorable="d"
+        Title="Weapons Editor" Height="600" Width="499">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="167*"/>
+            <ColumnDefinition Width="21*"/>
+            <ColumnDefinition Width="20.529"/>
+            <ColumnDefinition Width="127.471"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Margin="10,10,10,10" Grid.ColumnSpan="2">
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Button Name="LoadButton" Content="Load" Width="80" Height="30" Margin="0,0,10,0" Click="LoadClicked"/>
+                <Button Name="SaveButton" Content="Save" Width="80" Height="30" Click="SaveClicked"/>
+            </StackPanel>
+
+            <StackPanel Margin="0,0,0,10">
+                <TextBlock Text="Sort by:" Margin="0,0,0,5"/>
+                <WrapPanel>
+                    <RadioButton x:Name="SortByNameRadioButton" Content="Name" Margin="0,0,15,0" IsChecked="True" Checked="SortRadioSelected" Padding="4,-1,0,10"/>
+                    <RadioButton x:Name="SortByBaseAttackRadioButton" Content="BaseAttack" Margin="0,0,15,0" Checked="SortRadioSelected" Padding="4,-1,0,10"/>
+                    <RadioButton x:Name="SortByRarityRadioButton" Content="Rarity" Margin="0,0,15,0" Checked="SortRadioSelected" Padding="4,-1,0,10"/>
+                    <RadioButton x:Name="SortByPassiveRadioButton" Content="Passive" Margin="0,0,15,0" Checked="SortRadioSelected" Padding="4,-1,0,10"/>
+                    <RadioButton x:Name="SortBySecondaryStatRadioButton" Content="SecondaryStat" Checked="SortRadioSelected" Padding="4,-1,0,10"/>
+                </WrapPanel>
+            </StackPanel>
+
+            <StackPanel Margin="0,0,0,10">
+                <TextBlock Text="Show only type:" Margin="0,0,0,5"/>
+                <ComboBox Name="FilterTypeComboBox" Height="30" SelectionChanged="FilterTypeOnlySelectionChanged" />
+            </StackPanel>
+
+            <StackPanel Margin="0,0,0,10">
+                <TextBlock Text="Filter by name:" Margin="0,0,0,5"/>
+                <TextBox Name="FilterNameTextBox" Height="30" TextChanged="FilterNameTextChanged"/>
+            </StackPanel>
+
+            <TextBlock Text="Weapons:" Margin="0,0,0,5"/>
+            <ListBox Name="WeaponListBox" Height="299" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" Margin="13,262,13,10" Grid.ColumnSpan="2">
+            <Button Name="AddButton" Content="Add" Width="80" Height="30" Margin="0,0,0,10" Click="AddClicked"/>
+            <Button Name="EditButton" Content="Edit" Width="80" Height="30" Margin="0,0,0,10" Click="EditClicked"/>
+            <Button Name="RemoveButton" Content="Remove" Width="80" Height="30" Click="RemoveClicked"/>
+        </StackPanel>
+    </Grid>
+</Window>
