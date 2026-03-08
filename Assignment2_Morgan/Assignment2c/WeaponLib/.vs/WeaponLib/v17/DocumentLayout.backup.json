@@ -34,8 +34,7 @@
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\Assignment2C\\WeaponEditorWindow.xaml",
               "RelativeToolTip": "..\\Assignment2C\\WeaponEditorWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-03T00:40:58.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T00:40:58.269Z"
             },
             {
               "$type": "Document",
@@ -43,8 +42,8 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\Assignment2C\\MainWindow.xaml",
               "RelativeDocumentMoniker": "..\\Assignment2C\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\Assignment2C\\MainWindow.xaml*",
-              "RelativeToolTip": "..\\Assignment2C\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\Assignment2C\\MainWindow.xaml",
+              "RelativeToolTip": "..\\Assignment2C\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-03T00:09:50.278Z",
               "EditorCaption": ""
@@ -59,8 +58,7 @@
               "RelativeToolTip": "..\\Assignment2C\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T00:09:49.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T00:09:49.273Z"
             },
             {
               "$type": "Document",
@@ -71,8 +69,7 @@
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP232_Assignments_Morgan\\Assignment2_Morgan\\Assignment2c\\WeaponLib\\WeaponLib.csproj",
               "RelativeToolTip": "WeaponLib.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-21T01:09:06.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T01:09:06.599Z"
             }
           ]
         }
