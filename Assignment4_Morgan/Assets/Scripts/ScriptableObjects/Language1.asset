@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e51053bd847e6248952b50e0dbc18e6, type: 3}
+  m_Name: Language1
+  m_EditorClassIdentifier: Assembly-CSharp::Language
+  locData:
+  - locKey: loc_flower
+    en: The Flower
+    fr: '[FR] The Flower'
+    sp: '[SP] The Flower'
+  - locKey: loc_flower_desc
+    en: Summons large amounts of flowers
+    fr: '[FR] Summons large amounts of flowers'
+    sp: '[SP] Summons large amounts of flowers'
+  - locKey: loc_dark
+    en: The Dark
+    fr: '[FR] The Dark'
+    sp: '[SP] The Dark'
+  - locKey: loc_dark_desc
+    en: Controls darkness and shadows
+    fr: '[FR] Controls darkness and shadows'
+    sp: '[SP] Controls darkness and shadows'
+  - locKey: loc_light
+    en: The Light
+    fr: '[FR] The Light'
+    sp: '[SP] The Light'
+  - locKey: loc_light_desc
+    en: Controls light and dispel darkness
+    fr: '[FR] Controls light and dispel darkness'
+    sp: '[SP] Controls light and dispel darkness'
+  - locKey: loc_mirror
+    en: The Mirror
+    fr: '[FR] The Mirror'
+    sp: '[SP] The Mirror'
+  - locKey: loc_mirror_desc
+    en: Creates a mirror duplicate of a person
+    fr: '[FR] Creates a mirror duplicate of a person'
+    sp: '[SP] Creates a mirror duplicate of a person'
+  - locKey: loc_jump
+    en: The Jump
+    fr: '[FR] The Jump'
+    sp: '[SP] The Jump'
+  - locKey: loc_jump_desc
+    en: Grants ability of powerful jump
+    fr: '[FR] Grants ability of powerful jump'
+    sp: '[SP] Grants ability of powerful jump'
+  - locKey: loc_little
+    en: The Little
+    fr: '[FR] The Little'
+    sp: '[SP] The Little'
+  - locKey: loc_little_desc
+    en: Shrinks anything to a tiny size
+    fr: '[FR] Shrinks anything to a tiny size'
+    sp: '[SP] Shrinks anything to a tiny size'
+  - locKey: loc_nothing
+    en: The Nothing
+    fr: '[FR] The Nothing'
+    sp: '[SP] The Nothing'
+  - locKey: loc_nothing_desc
+    en: Absorbs and erases the power of other cards
+    fr: '[FR] Absorbs and erases the power of other cards'
+    sp: '[SP] Absorbs and erases the power of other cards'
+  - locKey: loc_hope
+    en: The Hope
+    fr: '[FR] The Hope'
+    sp: '[SP] The Hope'
+  - locKey: loc_hope_desc
+    en: Counters The Nothing and restores balance
+    fr: '[FR] Counters The Nothing and restores balance'
+    sp: '[SP] Counters The Nothing and restores balance'
+  - locKey: Play
+    en: Play
+    fr: '[FR] Play'
+    sp: '[SP] Play'
+  - locKey: Show Cards
+    en: Show Cards
+    fr: '[FR] Show Cards'
+    sp: '[SP] Show Cards'
+  - locKey: Quit
+    en: Quit
+    fr: '[FR] Quit'
+    sp: '[SP] Quit'
+  - locKey: Regular
+    en: Regular
+    fr: '[FR] Regular'
+    sp: '[SP] Regular'
+  - locKey: ReturnMenu
+    en: ReturnMenu
+    fr: '[FR] ReturnMenu'
+    sp: '[SP] ReturnMenu'
+  - locKey: Special
+    en: Special
+    fr: '[FR] Special'
+    sp: '[SP] Special'
+  - locKey: Close
+    en: Close
+    fr: '[FR] Close'
+    sp: '[SP] Close'

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: aa01ed769eed62646a233fa1cd9fe43c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5548798537450708366
+    second: cardcaptor_Logo_0
+  - first:
+      213: -719998929522527003
+    second: cardcaptor_Logo_1
+  - first:
+      213: 2352501231343933107
+    second: cardcaptor_Logo_2
+  - first:
+      213: -1725034999336191098
+    second: cardcaptor_Logo_3
+  - first:
+      213: 2544605633742561557
+    second: cardcaptor_Logo_4
+  - first:
+      213: 719374366499867271
+    second: cardcaptor_Logo_5
+  - first:
+      213: 3429995732679678475
+    second: cardcaptor_Logo_6
+  - first:
+      213: -6566361530972253968
+    second: cardcaptor_Logo_7
+  - first:
+      213: -5659658624482159082
+    second: cardcaptor_Logo_8
+  - first:
+      213: 562683677963448680
+    second: cardcaptor_Logo_9
+  - first:
+      213: 3676464929687420851
+    second: cardcaptor_Logo_10
+  - first:
+      213: -2254217192359104343
+    second: cardcaptor_Logo_11
+  - first:
+      213: 4232230722563158847
+    second: cardcaptor_Logo_12
+  - first:
+      213: 2962629381907584825
+    second: cardcaptor_Logo_13
+  - first:
+      213: 2630641943233043979
+    second: cardcaptor_Logo_14
+  - first:
+      213: -1662820139327875589
+    second: cardcaptor_Logo_15
+  - first:
+      213: 4425670262827262071
+    second: cardcaptor_Logo_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cardcaptor_Logo_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 72
+        width: 105
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dd4fafeda410d40800000000000000
+      internalID: 5548798537450708366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 72
+        width: 87
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4f52fc9cc0206f0800000000000000
+      internalID: -719998929522527003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 173
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b69ce3e763c5a020800000000000000
+      internalID: 2352501231343933107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 173
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b3377cec17f08e0800000000000000
+      internalID: -1725034999336191098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 173
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511eeac8751405320800000000000000
+      internalID: 2544605633742561557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 173
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a0fb7cc2bbbf900800000000000000
+      internalID: 719374366499867271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 173
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a5a7b22fac99f20800000000000000
+      internalID: 3429995732679678475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 173
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0db974af89fd4a0800000000000000
+      internalID: -6566361530972253968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 173
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616d3c9977ad471b0800000000000000
+      internalID: -5659658624482159082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 173
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861fbe9e2dd0fc700800000000000000
+      internalID: 562683677963448680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 171
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf3333ff5d650330800000000000000
+      internalID: 3676464929687420851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 72
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a07bda286967b0e0800000000000000
+      internalID: -2254217192359104343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 72
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f333fd93b67ebba30800000000000000
+      internalID: 4232230722563158847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 72
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9379cb5e9bf5d1920800000000000000
+      internalID: 2962629381907584825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 72
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e16add8eae18420800000000000000
+      internalID: 2630641943233043979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 20
+        width: 217
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf51ffda4e97ce8e0800000000000000
+      internalID: -1662820139327875589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardcaptor_Logo_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 20
+        width: 174
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77024d4e7a32b6d30800000000000000
+      internalID: 4425670262827262071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cardcaptor_Logo_0: 5548798537450708366
+      cardcaptor_Logo_1: -719998929522527003
+      cardcaptor_Logo_10: 3676464929687420851
+      cardcaptor_Logo_11: -2254217192359104343
+      cardcaptor_Logo_12: 4232230722563158847
+      cardcaptor_Logo_13: 2962629381907584825
+      cardcaptor_Logo_14: 2630641943233043979
+      cardcaptor_Logo_15: -1662820139327875589
+      cardcaptor_Logo_16: 4425670262827262071
+      cardcaptor_Logo_2: 2352501231343933107
+      cardcaptor_Logo_3: -1725034999336191098
+      cardcaptor_Logo_4: 2544605633742561557
+      cardcaptor_Logo_5: 719374366499867271
+      cardcaptor_Logo_6: 3429995732679678475
+      cardcaptor_Logo_7: -6566361530972253968
+      cardcaptor_Logo_8: -5659658624482159082
+      cardcaptor_Logo_9: 562683677963448680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
